@@ -47,7 +47,6 @@ Keep in mind that some vim installations are located directly
 inside /usr/share/vim; adjust to fit your system:
 
 ```sh
-git clone https://github.com/vim/vim.git
 cd vim
 ./configure --with-features=huge \
 		--enable-multibyte \
